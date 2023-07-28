@@ -12,5 +12,4 @@ void setIO(string name = "")
 
 int main()
 {
-
 }
