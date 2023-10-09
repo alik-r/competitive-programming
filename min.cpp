@@ -5,8 +5,7 @@ using ll = long long;
 using ull = unsigned long long;
 using ld = long double;
 
-void setIO(string name = "") 
-{
+void setIO(string name = "") {
 	cin.tie(nullptr)->sync_with_stdio(false); 
 	if ((int)name.size()) {
 		freopen((name + ".in").c_str(), "r", stdin);
@@ -14,7 +13,7 @@ void setIO(string name = "")
 	}
 }
 
-int main()
-{
+int main() {
 	setIO();
 }
+
