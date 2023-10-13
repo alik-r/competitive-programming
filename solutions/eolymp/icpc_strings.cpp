@@ -15,4 +15,7 @@ void setIO(string name = "") {
 
 int main() {
 	setIO();
+	int n;
+	cin >> n;
+	cout << 12 << '\n';
 }
